@@ -1,0 +1,72 @@
+Test data for B2C DE:
+---------------------
+Birthdate  = "19600101" 
+Street     = "Hauptstr. 9" 
+Zip        = "66862" 
+City       = "Kaiserslautern" 
+Country    = "DE" 
+Firstname  = "Norbert" 
+Lastname   = "Maier" 
+Gender     = "m"
+
+Test data for B2C AT:
+---------------------
+Birthdate  = "19700101" 
+Street     = "Gartenstrasse 23" 
+Zip        = "12345" 
+City       = "Graz Andritz" 
+Country    = "AT" 
+Firstname  = "B2CTestAut" 
+Lastname   = "ResponsePositive" 
+Gender     = "m" 
+
+Test data for B2C CH:
+---------------------
+Birthdate  = "19700101" 
+Street     = "Hausstrasse 23" 
+Zip        = "8109" 
+City       = "Dällikon" 
+Country    = "CH" 
+Firstname  = "B2CTestCHE" 
+Lastname   = "ResponsePositive" 
+Gender     = "m"
+
+Test data for B2B DE:
+--------------------- 
+Street     = "Industriestraße 23" 
+Zip        = "55120" 
+City       = "Mainz" 
+Country    = "DE" 
+Firstname  = "Company" 
+Lastname   = "Germany"
+Company    = "A.B.C. Gerüstbau GmbH" 
+
+Test data for B2B AT (Success):
+-------------------------------
+Street     = "Statteggerstrasse 60" 
+Zip        = "8045" 
+City       = "Graz Andritz" 
+Country    = "AT" 
+Firstname  = "B2CTestAut" 
+Lastname   = "Positive" 
+Company    = "NAINTSCH MINERALWERKE GMBH" 
+
+Test data for B2B AT (Failure):
+-------------------------------
+Street     = "Bahnhofstrasse 35" 
+Zip        = "8045" 
+City       = "Graz Andritz" 
+Country    = "AT" 
+Firstname  = "B2CTestAut" 
+Lastname   = "Negative" 
+Company    = "Germany Corefacts GMBH" 
+
+Test data for B2B CH:
+---------------------
+Street     = "Lindenstrasse 6" 
+Zip        = "8108" 
+City       = "Dällikon" 
+Country    = "CH" 
+Firstname  = "B2CTestAut" 
+Lastname   = "ResponsePositive" 
+Company    = "Volvo"
